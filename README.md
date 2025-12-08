@@ -186,6 +186,7 @@ To share your comments or support our chess art and AI education projects:
 DeepSeaChess LLC  
 www.deepseachess.com/shahi  
 www.shahimasterset.com
+
 www.linkedin.com/in/tamerkaratekin/
 
 
