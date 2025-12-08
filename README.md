@@ -92,11 +92,15 @@ README.md
 
 ---
 
-## 🔤 Naming & Terminology
+## 🔤 Culturally Unifying Naming & Terminology
 
-The Şahî Font was designed for both modern chess and historic chess, which was played across the Middle East and Mediterrenian:
+The Şahî Font was designed for both modern chess and historic chess, which was played across the Middle East, Mediterranean, Africa, and Europe. The Şahî (Shahi) Font reflects historical chess and shatranj heritage and is designed with culturally inclusive, religiously neutral principles. The designer prefers to use one unified terminology for both chess and shatranj, because the rules of the games are very similar and chess evolved from shatranj. For English-language educational use, the creator’s preferred terminology for the chess pieces is: shah, vizier, rook, elephant, horse, and pawn. These correspond respectively to the king, queen, rook, bishop, knight, and pawn. 
 
-The designer prefers to use one unified terminology for both chess and shatranj, because the rules of the games are very similar and chess evolved from shatranj. 
+For example, the chess piece known in English as “bishop” is called “elephant” in the majority of the world’s languages. In old English, it was once called an archer. Likewise, the piece called “queen” in modern English chess is associated with an advisor, vizier, or statesman figure in many linguistic traditions, and is also understood as a military leader in languages such as Polish and Hungarian.
+
+Platforms and educators are welcome to use these preferred terms where appropriate. Other languages may continue using their own established chess vocabularies. This recommendation is provided to support cultural context and educational clarity and is not a mandatory naming requirement.
+
+
 ### Chess / Shatranj Culturally Inclusive English Terminology
 Preferred English teaching terms used by the creator:
 - **Shah** → King  
@@ -105,8 +109,6 @@ Preferred English teaching terms used by the creator:
 - **Elephant** → Bishop  
 - **Horse** → Knight  
 - **Pawn** → Pawn  
-
-These names reflect common usage across world languages and highlight the non-sectarian origins of chess.
 
 For more detail, see Section 12 of the license. Full license:  
 See [LICENSE.txt](LICENSE.txt) for complete terms.
