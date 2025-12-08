@@ -45,7 +45,7 @@ This License permits broad usage of the Font but does not transfer ownership of 
 
 9. Trademark Notice  
 “Şahî” (Shahi) is a trademark of DeepSeaChess LLC. Use of the name is permitted only to refer to this Font in its original form and context.  
-Additional information about the Şahî Chess Set, its artistic philosophy, and the broader design vision can be found at **www.shahimasterset.com** and in the creator’s **TEDx talk**, titled "Chess: Bridging Cultures, Inspiring AI, and Redefining Education" https://www.youtube.com/watch?v=BDLiXo_acLg
+Additional information about the Şahî Chess Set, its artistic philosophy, and the broader design vision can be found at www.shahimasterset.com and in the creator’s **TEDx talk**, titled "Chess: Bridging Cultures, Inspiring AI, and Redefining Education" https://www.youtube.com/watch?v=BDLiXo_acLg
 
 10. Preservation of Artistic Integrity
 The Şahî Font is designed to be culturally and spiritually inclusive, to bring forth the unifying power of chess in the classsrooms and school settings. Alterations that introduce, remove, or modify religious, political, ideological, or culturally sensitive symbols—such as adding or removing crosses, crescents, Stars of David, halos, or any other iconographic elements—are strictly prohibited. The artwork must remain in its original, neutral form at all times.
@@ -66,4 +66,5 @@ Platforms and educators are welcome to use these preferred terms where appropria
 
 12. No Warranty  
 The Font is provided “as-is,” without warranty of any kind. The copyright holder is not liable for any damages or issues arising from its use.
+
 
