@@ -88,9 +88,9 @@ shahi-white-gray/
         └── Vizier White.svg
 LICENSE.txt
 README.md
-
 ---
 
+---
 ## 🔤 Culturally Unifying Naming & Terminology
 
 The Şahî Font was designed for both modern chess and historic chess, which was played across the Middle East, Mediterranean, Africa, and Europe. The Şahî (Shahi) Font reflects historical chess and shatranj heritage and is designed with culturally inclusive, religiously neutral principles. The designer prefers to use one unified terminology for both chess and shatranj, because the rules of the games are very similar and chess evolved from shatranj. For English-language educational use, the creator’s preferred terminology for the chess pieces is: shah, vizier, rook, elephant, horse, and pawn. These correspond respectively to the king, queen, rook, bishop, knight, and pawn. 
