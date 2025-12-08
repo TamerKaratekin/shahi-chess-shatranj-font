@@ -24,7 +24,7 @@ It combines modern clarity with historical authenticity and cultural neutrality,
 - academic, cultural, and historical presentations
 - online tournament broadcasting, social media posting
 
-This repository contains the original, unmodified SVG and font files in **versioned folders** (`v1/` and `v2/`).
+This repository contains the original, unmodified SVG and font files in two different color combinations, ivory-brown and white-gray.
 
 ---
 
