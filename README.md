@@ -180,11 +180,13 @@ are always welcome.
 
 ## 💬 Contact
 
-For licensing questions or usage permissions:
+To share your comments or support our chess art and AI education projects:
 
 **Tamer Karatekin**  
 DeepSeaChess LLC  
 www.deepseachess.com/shahi  
-www.shahimasterset.com  
+www.shahimasterset.com
+www.linkedin.com/in/tamerkaratekin/
+
 
 ---
