@@ -83,31 +83,22 @@ LICENSE.txt
 README.md
 ---
 ```
-## 🖼 Preview (recommended)
+## 🖼 Preview
 
-You can include PNG previews of the pieces here:
-
-```
-previews/
-   rook.png
-   elephant.png
-   horse.png
-```
-
-This helps developers understand the style at a glance.
+<p align="center">
+  <img src="shahi-ivory-brown/svg/shahi-icons-ivory-brown-pieces-beige-board.png" width="420" alt="Şahî ivory–brown set on beige board">
+  <img src="shahi-white-gray/svg/shahi-icons-white-gray-pieces-green-board.png" width="420" alt="Şahî white–gray set on green board">
+</p>
 
 ---
 
 ## 🔤 Naming & Terminology
 
-The Şahî Font supports both:
+The Şahî Font was designed for both modern chess and historic chess, which was played across the Middle East and Mediterrenian:
 
-### • Modern International Chess  
-(King, Queen, Rook, Bishop, Knight, Pawn)
-
-### • Historical Shatranj / Cultural Terminology  
+The designer prefers to use one unified terminology for both chess and shatranj, because the rules of the games are very similar and chess evolved from shatranj. 
+### Chess / Shatranj Culturally Inclusive English Terminology
 Preferred English teaching terms used by the creator:
-
 - **Shah** → King  
 - **Vizier** → Queen  
 - **Rook** → Rook  
@@ -126,23 +117,7 @@ See [LICENSE.txt](LICENSE.txt) for complete terms.
 ## 📥 Installation & Usage
 
 ### Use as SVG icons  
-Copy any SVG from `v1/svg/` or `v2/svg/` directly into your project.
-
-### Use as a web font  
-Example:
-
-```html
-<link rel="stylesheet" href="shahi.ttf">
-
-<i class="shahi shahi-rook"></i>
-```
-
-(You can generate your own CSS class mapping based on the codepoints.)
-
-### Use in apps  
-- Import the TTF/WOFF2 font  
-- Map glyphs to UI icons  
-- Ensure no modification of SVG paths (required by license)
+Copy any SVG from the folders directly into your project.
 
 ---
 
