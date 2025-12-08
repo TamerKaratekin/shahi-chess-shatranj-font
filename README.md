@@ -69,7 +69,7 @@ shahi-chess-shatranj-font/
 │       ├── horse-brown.svg
 │       └── pawn-brown.svg
 │
-├── shahi-black-white/              # Theme 2: Black vs White pieces
+├── shahi-white-gray/              # Theme 2: Black vs White pieces
 │   └── svg/
 │       ├── shah-white.svg
 │       ├── vizier-white.svg
