@@ -89,7 +89,7 @@ shahi-white-gray/
 LICENSE.txt
 README.md
 ---
-
+```
 ---
 ## 🔤 Culturally Unifying Naming & Terminology
 
