@@ -148,17 +148,17 @@ See [LICENSE.txt](LICENSE.txt) for complete terms.
 
 ## 🌐 Related Projects & Links
 
-- **Şahî Master Set (Physical Chess Set):**  
+- **Şahî Master Set (Physical Chess Set that mathces the icons):**  
   https://www.shahimasterset.com  
 
 - **Design Philosophy & Cultural Background (TEDx Talk):**  
   “Chess: Bridging Cultures, Inspiring AI, and Redefining Education”  
   https://www.youtube.com/watch?v=BDLiXo_acLg  
 
-- **Shatranj Curriculum Project:**  
+- **Chess and Shatranj AI Curriculum Project:**  
   https://www.shatranj.ai  
 
-- **DeepSeaChess:**  
+- **DeepSeaChess: Parent Company and Early Childhood Curriculum Website**  
   https://www.deepseachess.com/shahi  
 
 ---
