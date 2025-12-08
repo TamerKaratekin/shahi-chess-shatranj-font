@@ -2,6 +2,13 @@
 A culturally inclusive, educational, and cross-platform SVG icon font for chess, shatranj, and historic variants.
 ŞAHÎ (SHAHI) chess/shatranj icons - available free for personal or commercial use with no-modification, no-derivatives, no-removal-of-branding license
 
+## 🖼 Preview
+
+<p align="center">
+  <img src="shahi-ivory-brown/svg/shahi-icons-ivory-brown-pieces-beige-board.png" width="420" alt="Şahî ivory–brown set on beige board">
+  <img src="shahi-white-gray/svg/shahi-icons-white-gray-pieces-green-board.png" width="420" alt="Şahî white–gray set on green board">
+</p>
+
 The **Şahî (Shahi) Font** is a vector-based chess & shatranj piece set designed by **Tamer Karatekin** (DeepSeaChess LLC).  
 It combines modern clarity with historical authenticity and cultural neutrality, making it suitable for:
 
