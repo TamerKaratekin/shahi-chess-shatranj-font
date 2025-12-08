@@ -101,7 +101,7 @@ Platforms and educators are welcome to use these preferred terms where appropria
 
 
 ### Chess / Shatranj Culturally Inclusive English Terminology
-Preferred English teaching terms used by the creator:
+Preferred English teaching terms used by the font designer:
 - **Shah** → King  
 - **Vizier** → Queen  
 - **Rook** → Rook  
