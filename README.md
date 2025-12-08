@@ -9,6 +9,10 @@ A culturally inclusive, educational, and cross-platform SVG icon set for chess, 
   <img src="shahi-white-gray/svg/shahi-icons-white-gray-pieces-green-board.png" width="420" alt="Şahî white–gray set on green board">
 </p>
 
+<p align="center">
+  <img src="shahi-logo.png" width="200" alt="Şahî Font Logo">
+</p>
+
 The **Şahî (Shahi) Font** is a vector-based chess & shatranj piece set designed by **Tamer Karatekin** (DeepSeaChess LLC).  
 It combines modern clarity with historical authenticity and cultural neutrality, making it suitable for:
 
