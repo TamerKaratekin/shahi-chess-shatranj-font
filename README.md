@@ -23,8 +23,7 @@ This repository contains the original, unmodified SVG and font files in **versio
 The Şahî (Shahi) Font is built on four core principles:
 
 ### 1. Cultural and Spiritual Inclusivity
-The designs intentionally avoid sectarian or religious symbolism, presenting chess imagery in a universal, welcoming form.  
-This supports multilingual, multicultural, and multi-faith educational environments and reflects the global heritage shared by chess players in Europe, Asia, Africa, and beyond.
+The designs intentionally avoid sectarian or religious symbolism, presenting chess imagery in a universal, welcoming form. This supports multilingual, multicultural, and multi-faith educational environments and reflects the global heritage shared by chess players in Europe, Asia, Africa, and beyond.
 
 ### 2. Historical Authenticity
 The artwork draws inspiration from a broad spectrum of historic chess traditions, including:
