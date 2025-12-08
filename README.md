@@ -44,7 +44,7 @@ The font is optimized for on-screen display, retaining shape clarity at any reso
 
 ### 4. Educational Purpose
 The Şahî Font is used across the Shatranj.ai curriculum and STEAM programs that connect chess logic with mathematics, coding, and artificial intelligence. It supports teachers, researchers, and curriculum designers who require culturally neutral and historically informed visual material.
-
+```
 ---
 ## 📦 Repository Structure
 
@@ -82,7 +82,7 @@ shahi-white-gray/
 LICENSE.txt
 README.md
 ---
-
+```
 ## 🖼 Preview (recommended)
 
 You can include PNG previews of the pieces here:
