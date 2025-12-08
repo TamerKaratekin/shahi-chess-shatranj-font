@@ -14,7 +14,7 @@ This License is non-exclusive, worldwide, and royalty-free, with the following c
 The Şahî (Shahi) Font is designed to be culturally and spiritually inclusive, to bring forth the unifying power of chess in the classrooms and school settings. Alterations that introduce, remove, or modify religious, political, ideological, or culturally sensitive symbols—such as adding crosses, crescents, Stars of David, halos, or any other iconographic elements—are strictly prohibited. The artwork must remain in its original, neutral form at all times.
 
 2. Non-Modification  
-The Font is provided in vector formats such as SVG. Although the artwork is vector-based, the vector paths, shapes, proportions, and outlines must remain unchanged. The Font may not be edited, redrawn, converted, adjusted, optimized, re-vectorized, or altered in any way.
+The Font is provided in vector formats such as SVG. Although the artwork is vector-based, the vector paths, shapes, proportions, and outlines must remain unchanged. The Font may not be edited, redrawn, converted, adjusted, re-vectorized, or altered in any way. You can reduce/enlarge the size or convert to pgn or other format if necessary to publish/use with your software/printing stack.
 
 3. No Derivative Works  
 Creating new fonts, icons, artwork, or modified versions based on the Font or its glyphs is not permitted. The artwork is provided for use as-is and must remain in its original form.
@@ -66,5 +66,6 @@ Platforms and educators are welcome to use these preferred terms where appropria
 
 12. No Warranty  
 The Font is provided “as-is,” without warranty of any kind. The copyright holder is not liable for any damages or issues arising from its use.
+
 
 
