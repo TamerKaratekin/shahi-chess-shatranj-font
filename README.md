@@ -6,12 +6,13 @@ A culturally inclusive, educational, and cross-platform SVG icon font for chess,
 The **Şahî (Shahi) Font** is a vector-based chess & shatranj piece set designed by **Tamer Karatekin** (DeepSeaChess LLC).  
 It combines modern clarity with historical authenticity and cultural neutrality, making it suitable for:
 
-- educational materials  
+- educational materials, including books and videos
 - school programs and STEAM curricula  
 - chess & shatranj software  
 - websites and game engines  
 - Lichess-compatible variants  
-- academic, cultural, and historical presentations  
+- academic, cultural, and historical presentations
+- online tournament broadcasting, social media posting
 
 This repository contains the original, unmodified SVG and font files in **versioned folders** (`v1/` and `v2/`).
 
