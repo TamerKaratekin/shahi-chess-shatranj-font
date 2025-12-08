@@ -129,7 +129,7 @@ The Şahî Font is **free for personal, educational, non-profit, and commercial 
 
 Key points from the full license:
 
-- **No modification** of the vector artwork  
+- **No modification** of the artwork (including vector files)  
 - **No derivative fonts**  
 - **No removal of branding or metadata**  
 - **No AI training datasets**  
