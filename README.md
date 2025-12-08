@@ -19,26 +19,36 @@ This repository contains the original, unmodified SVG and font files in **versio
 
 ## ✨ Design Philosophy
 
-The Şahî Font is built on four pillars:
+The Şahî (Shahi) Font is built on four core principles:
 
-### 1. Cultural Inclusivity  
-The icons avoid sectarian or religious symbolism and emphasize universal design.  
-This aligns with the goal of **making chess welcoming for all cultures**, especially in multilingual and multi-faith classrooms.
+### 1. Cultural and Spiritual Inclusivity
+The designs intentionally avoid sectarian or religious symbolism, presenting chess imagery in a universal, welcoming form.  
+This supports multilingual, multicultural, and multi-faith educational environments and reflects the global heritage shared by chess players in Europe, Asia, Africa, and beyond.
 
-### 2. Historical Authenticity  
-The designs draw from the **Golden Age of Islamic Science**, the **Silk Road**, and early **shatranj** traditions while remaining clear and usable in modern digital interfaces.
+### 2. Historical Authenticity
+The artwork draws inspiration from a broad spectrum of historic chess traditions, including:
+- early shatranj and Middle Eastern – Central Asian designs,
+- medieval and Renaissance European chess sets,
+- archaeological and museum-documented piece styles from multiple regions.
 
-### 3. Modern Utility  
-Clean SVG paths and font files ensure compatibility with:
+While historically grounded, each icon is refined for clarity, readability, and consistency in modern digital usage. For example, the rook piece has been historically called 4 different names: chariot, tower, cannon, boat
+The design of the Şahî (Shahi) rook physical piece and its corresponding icon have elements of the wheel from the chariot, bricks from the tower, barrel of a cannon, and the anchor of a boat. The vizier piece has a military helmet as the commander of the army, which can also be viewed as the tip of a pen of a statesman. The shah piece has the dome under the which the ruler lives and its wise headwrap, which looks like a rose with petals, symbolizing life and fragility of the shah (king) piece. The elephant piece is inspired by the Charlemagne-Abbas elephant. 
 
-- web front-end frameworks  
-- mobile and desktop apps  
-- game engines  
-- font-face embedding  
-- icon workflows  
+### 3. Modern Utility
+The vector-based SVG format and clean outlines ensure compatibility with:
+- online chess platforms and real-time game interfaces,
+- websites and front-end frameworks,
+- mobile and desktop applications,
+- game engines and graphical toolkits,
+- software that uses scalable icon systems.
 
-### 4. Educational Purpose  
-The font is used across the **Shatranj.ai** curriculum, primary school STEAM learning, and teacher-training programs.
+The font is optimized for on-screen display, retaining shape clarity at any resolution.
+
+### 4. Educational Purpose
+The Şahî Font is used across the Shatranj.ai curriculum and STEAM programs that connect chess logic with mathematics, coding, and artificial intelligence.  
+It supports teachers, researchers, and curriculum designers who require culturally neutral and historically informed visual material.
+
+
 
 ---
 
