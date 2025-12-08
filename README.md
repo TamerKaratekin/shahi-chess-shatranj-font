@@ -44,17 +44,42 @@ The font is used across the **Shatranj.ai** curriculum, primary school STEAM lea
 
 ## 📦 Repository Structure
 
-```
+```text
 shahi-chess-shatranj-font/
 │
 ├── LICENSE.txt
-├── v1/
-│   ├── svg/
-│   └── font/
-├── v2/
-│   ├── svg/
-│   └── font/
-└── previews/   (optional – add PNG previews here)
+│
+├── shahi-ivory-brown/              # Theme 1: Ivory vs Brown pieces
+│   └── svg/
+│       ├── shah-ivory.svg
+│       ├── vizier-ivory.svg
+│       ├── rukh-ivory.svg
+│       ├── elephant-ivory.svg
+│       ├── horse-ivory.svg
+│       ├── pawn-ivory.svg
+│       ├── shah-brown.svg
+│       ├── vizier-brown.svg
+│       ├── rukh-brown.svg
+│       ├── elephant-brown.svg
+│       ├── horse-brown.svg
+│       └── pawn-brown.svg
+│
+├── shahi-black-white/              # Theme 2: Black vs White pieces
+│   └── svg/
+│       ├── shah-white.svg
+│       ├── vizier-white.svg
+│       ├── rukh-white.svg
+│       ├── elephant-white.svg
+│       ├── horse-white.svg
+│       ├── pawn-white.svg
+│       ├── shah-black.svg
+│       ├── vizier-black.svg
+│       ├── rukh-black.svg
+│       ├── elephant-black.svg
+│       ├── horse-black.svg
+│       └── pawn-black.svg
+│
+└── previews/                       # (optional) PNG sample images
 ```
 
 ---
@@ -86,14 +111,16 @@ Preferred English teaching terms used by the creator:
 
 - **Shah** → King  
 - **Vizier** → Queen  
-- **Rukh** → Rook  
+- **Rook** → Rook  
 - **Elephant** → Bishop  
 - **Horse** → Knight  
 - **Pawn** → Pawn  
 
 These names reflect common usage across world languages and highlight the non-sectarian origins of chess.
 
-For more detail, see Section 12 of the license. :contentReference[oaicite:1]{index=1}
+For more detail, see Section 12 of the license. Full license:  
+See [LICENSE.txt](LICENSE.txt) for complete terms.
+
 
 ---
 
@@ -135,7 +162,8 @@ Key points from the full license:
 - **Cultural terminology is recommended but not required**  
 
 Full license:  
-See `LICENSE.txt` for complete terms. :contentReference[oaicite:2]{index=2}
+See [LICENSE.txt](LICENSE.txt) for complete terms.
+
 
 ---
 
