@@ -160,7 +160,7 @@ See [LICENSE.txt](LICENSE.txt) for complete terms.
 
 ## 🤝 Contributing
 
-Because this is a protected artwork project, **modifications and pull requests altering the icons cannot be accepted**.
+Because this is a protected artwork project, **modifications and pull requests altering the icons cannot be accepted**.  The design process took roughly 25 revisions and spanned multiple months with feedback from various artists, historians, and designers, so it is important to keep the artistic integrity of the project.
 
 However:
 
@@ -183,12 +183,3 @@ www.deepseachess.com/shahi
 www.shahimasterset.com  
 
 ---
-
-If you'd like, I can:
-
-• insert your preview images once you upload them  
-• generate CSS mapping for the font  
-• generate a `package.json` for npm distribution  
-• write a “How to use in Lichess” section  
-
-Just tell me!
