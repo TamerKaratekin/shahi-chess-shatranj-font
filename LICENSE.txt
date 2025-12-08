@@ -61,10 +61,11 @@ The Şahî (Shahi) Font reflects historical chess and shatranj heritage and is d
 
 For example, the chess piece known in English as “bishop” is called “elephant” in the majority of the world’s languages, such as Spanish, Chinese, Russian, and Arabic. In old English, this piece was once called an archer. Likewise, the piece called “queen” in modern English chess is associated with an advisor, vizier, or statesman figure in many linguistic traditions, and is also understood as a military leader in languages such as Polish and Hungarian. The French and German word "dame" for the queen piece evolved from the word "firz" , which means advisor/vizier.
 
-Platforms and educators are welcome to use these preferred terms where appropriate. Other languages may continue using their own established chess vocabularies. This recommendation is provided to support cultural context and educational clarity and is not a mandatory naming requirement. The author teaches chess terminology in a multilingual way in the classrooms. 
+Platforms and educators are welcome to use these preferred terms where appropriate. Non-English languages are encouraged to continue using their own established chess vocabularies. This recommendation is provided to support cultural context and educational clarity and is not a mandatory naming requirement. The author teaches chess terminology in a multilingual way in the classrooms. 
 
 13. No Warranty  
 The Font is provided “as-is,” without warranty of any kind. The copyright holder is not liable for any damages or issues arising from its use.
+
 
 
 
