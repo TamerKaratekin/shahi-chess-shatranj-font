@@ -46,47 +46,41 @@ The font is optimized for on-screen display, retaining shape clarity at any reso
 The Şahî Font is used across the Shatranj.ai curriculum and STEAM programs that connect chess logic with mathematics, coding, and artificial intelligence. It supports teachers, researchers, and curriculum designers who require culturally neutral and historically informed visual material.
 
 ---
-
 ## 📦 Repository Structure
 
-```text
-shahi-chess-shatranj-font/
-│
-├── LICENSE.txt
-│
-├── shahi-ivory-brown/              # Theme 1: Ivory vs Brown pieces
-│   └── svg/
-│       ├── shah-ivory.svg
-│       ├── vizier-ivory.svg
-│       ├── rukh-ivory.svg
-│       ├── elephant-ivory.svg
-│       ├── horse-ivory.svg
-│       ├── pawn-ivory.svg
-│       ├── shah-brown.svg
-│       ├── vizier-brown.svg
-│       ├── rukh-brown.svg
-│       ├── elephant-brown.svg
-│       ├── horse-brown.svg
-│       └── pawn-brown.svg
-│
-├── shahi-white-gray/              # Theme 2: Black vs White pieces
-│   └── svg/
-│       ├── shah-white.svg
-│       ├── vizier-white.svg
-│       ├── rukh-white.svg
-│       ├── elephant-white.svg
-│       ├── horse-white.svg
-│       ├── pawn-white.svg
-│       ├── shah-black.svg
-│       ├── vizier-black.svg
-│       ├── rukh-black.svg
-│       ├── elephant-black.svg
-│       ├── horse-black.svg
-│       └── pawn-black.svg
-│
-└── previews/                       # (optional) PNG sample images
-```
-
+shahi-ivory-brown/
+    └── svg/
+        ├── Elephant Black.svg
+        ├── Elephant White.svg
+        ├── Horse Black.svg
+        ├── Horse White.svg
+        ├── Pawn Black.svg
+        ├── Pawn White.svg
+        ├── Rook Black.svg
+        ├── Rook White.svg
+        ├── Shah Black.svg
+        ├── Shah White.svg
+        ├── shahi-icons-ivory-brown-pieces-beige-board.png
+        ├── Vizier Black.svg
+        └── Vizier White.svg
+shahi-white-gray/
+    └── svg/
+        ├── Elephant Black.svg
+        ├── Elephant White.svg
+        ├── Horse Black.svg
+        ├── Horse White.svg
+        ├── Pawn Black.svg
+        ├── Pawn White.svg
+        ├── placeholder.txt
+        ├── Rook Black.svg
+        ├── Rook White.svg
+        ├── Shah Black.svg
+        ├── Shah White.svg
+        ├── shahi-icons-white-gray-pieces-green-board.png
+        ├── Vizier Black.svg
+        └── Vizier White.svg
+LICENSE.txt
+README.md
 ---
 
 ## 🖼 Preview (recommended)
