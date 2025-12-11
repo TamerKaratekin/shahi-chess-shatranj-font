@@ -106,8 +106,12 @@ I should tell a story here, so I understand some of my motivation. Jiray Çakır
   <img src="Kasparov-in-Boston-NorthEasternUniversity-14June2024.jpg" width="500" alt="Karatekin, Kasparov, Cremer, and Charlemagne-Abbas elephant from the Şahî chess set">
 </p>
 <p align="center">
-  <em>Garry Kasparov, Tamer Karatekin, Professor Cremer, and the Charlemagne–Abbas elephant piece from the Şahî chess set — Northeastern University, 14 June 2024.</em>
+  <em>
+    Garry Kasparov, Tamer Karatekin, Prof. Cremer, and the Charlemagne–Abbas elephant piece from the Şahî chess set<br>
+    Northeastern University, Boston, 14 June 2024.
+  </em>
 </p>
+
 So you are welcome and encouraged to use multilingual terminology in your teachings of chess with the Şahî icons. I think chess offers a great way to pick language fluency, especially for young children.
 
 Sometimes, I prefer to use one unified terminology for both chess and shatranj, because the rules of the games are very similar and chess evolved from shatranj, which evolved from chaturanga. Shatranj is the term used for chess across Mediterranean, for example Portuguese word Xadrez and Spanish Ajedrez come from Shatranj. For English-language educational use, my preferred terminology for the chess pieces is: shah, vizier, rook, elephant, horse, and pawn. These correspond respectively to the king, queen, rook, bishop, knight, and pawn. I feel the terms, "shah, vizier, rook, elephant, horse, and pawn" have less association with monarchies. I use the term "shah" in a more metaphorical/poetric way compared to the usage of "king", and also because shah is used as the name of the chess game in my languages, such as German (Schach). Also "shah" word has been used as a prefix and suffix in female names as well, such as Gülşah, meaning rose-shah or smile-shah. Similarly, the advisor and military leader status of the "vizier" word feels better to me compared to "queen" word, because the "queen" piece is the strongest / most mobile piece of the modern chess game. "Vizier" and "Ferz" have same/similar meaning in Persian. 
