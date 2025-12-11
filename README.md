@@ -82,7 +82,6 @@ shahi-white-gray/
         ├── Horse White.svg
         ├── Pawn Black.svg
         ├── Pawn White.svg
-        ├── placeholder.txt
         ├── Rook Black.svg
         ├── Rook White.svg
         ├── Shah Black.svg
