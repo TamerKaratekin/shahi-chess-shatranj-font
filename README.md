@@ -107,7 +107,7 @@ I should tell a story here, so I understand some of my motivation. Jiray Çakır
 </p>
 <p align="center">
   <em>
-    Garry Kasparov, Tamer Karatekin, Prof. Cremer, and the Charlemagne–Abbas elephant piece from the Şahî chess set<br>
+     Tamer Karatekin, Garry Kasparov, Prof. Cremer, and the Charlemagne–Abbas elephant piece from the Şahî chess set<br>
     Northeastern University, Boston, 14 June 2024.
   </em>
 </p>
