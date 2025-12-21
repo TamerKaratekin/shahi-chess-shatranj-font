@@ -57,14 +57,17 @@ It does not grant any rights to copy, modify, reproduce, manufacture, or distrib
 All rights to the physical chess pieces remain exclusively with Tamer Karatekin and DeepSeaChess LLC.
 
 12. Cultural Terminology (Non-Binding Recommendation)
-The Şahî (Shahi) Font reflects historical chess and shatranj heritage and is designed with culturally inclusive, religiously neutral principles. For English-language educational use, the creator’s preferred terminology for the chess pieces is: shah, vizier, rook, elephant, horse, and pawn. These correspond respectively to the king, queen, rook, bishop, knight, and pawn. 
+The Şahî (Shahi) Font reflects historical chess and shatranj heritage and is designed with culturally and spiritiually inclusive, religiously neutral principles. Chess pieces have been called with different meanings across languages, eras, and civilizations. https://en.wikipedia.org/wiki/Chess_piece 
 
-For example, the chess piece known in English as “bishop” is called “elephant” in the majority of the world’s languages, such as Spanish, Chinese, Russian, and Arabic. In old English, this piece was once called an archer. Likewise, the piece called “queen” in modern English chess is associated with an advisor, vizier, or statesman figure in many linguistic traditions, and is also understood as a military leader in languages such as Polish and Hungarian. The French and German word "dame" for the queen piece evolved from the word "firz" , which means advisor/vizier.
+When I explain chess to beginners or to people who want a fresh artistic look at the game, I describe the "king" piece as the spiritual leader of the army, and the "queen" piece as the military leader of the army. With these 2 abstract roles, there is room for exploration for the all the different multilingual terminology of chess.
 
-Platforms and educators are welcome to use these preferred terms where appropriate. Non-English languages are encouraged to continue using their own established chess vocabularies. This recommendation is provided to support cultural context and educational clarity and is not a mandatory naming requirement. The author teaches chess terminology in a multilingual way in the classrooms. 
+For example, the chess piece known in English as “bishop” is called “elephant” in the majority of the world’s languages, such as Spanish, Chinese, Russian, and Arabic. In old English, this piece was once called an archer. Likewise, the piece called “queen” in modern English chess is associated with an advisor, vizier, or statesman figure in many linguistic traditions, and is also understood as a military leader in languages such as Polish and Hungarian. The French and German word "dame" for the queen piece evolved from the word "firz", which means advisor/vizier. For English-language educational use, the creator’s preferred terminology for the chess pieces is: shah, vizier, rook, elephant, horse, and pawn. These correspond respectively to the king, queen, rook, bishop, knight, and pawn. 
+
+In summary, platforms and educators are welcome and encouraged to use multilingual terminology where appropriate. This recommendation is offered to support cultural context and educational clarity and is not a mandatory naming requirement. Non-English languages are encouraged to continue using their own established chess vocabularies. 
 
 13. No Warranty  
 The Font is provided “as-is,” without warranty of any kind. The copyright holder is not liable for any damages or issues arising from its use.
+
 
 
 
