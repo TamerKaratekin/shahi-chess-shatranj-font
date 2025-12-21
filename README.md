@@ -174,7 +174,7 @@ See [LICENSE.txt](LICENSE.txt) for complete terms.
 
 ## 🤝 Contributing
 
-Because this is a protected artwork project, **modifications and pull requests altering the icons cannot be accepted**.  The design process took roughly 25 revisions and spanned multiple months with feedback from various artists, historians, and designers, so it is important to keep the artistic integrity of the project.
+Because this is a protected artwork project, **modifications and pull requests altering the icons cannot be accepted**.  The design process took roughly 25 revisions and spanned multiple months with feedback from various artists, historians, and designers, so it is important to keep the artistic integrity of the project. If you want to help financing of or contributing to the designing new chess piece glyphs as an extension of the Şahî chess icons, please reach out.
 
 However:
 
