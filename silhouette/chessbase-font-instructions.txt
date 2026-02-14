@@ -1,0 +1,1 @@
+To install the silhouette fonts on Chessbase products, remove the DiaTTOld.otf and DiaTTOld.ttf font from your system and reinstall the downloaded DiaTTOld.ttf from this folder.
