@@ -90,10 +90,13 @@ shahi-white-gray/
         ├── Vizier Black.svg
         └── Vizier White.svg
 silhouette/
+    ├── DiagTTOld.otf
+    ├── DiagTTOld.ttf
     ├── Shahi-Silhouette-English-Regular.ttf
     ├── Shahi-Silhouette-English-Regular.woff2
     ├── Shahi-Silhouette-Turkish-Regular.ttf
     ├── Shahi-Silhouette-Turkish-Regular.woff2
+    ├──chessbase-font-instructions.txt
 LICENSE.txt
 README.md
 ---
