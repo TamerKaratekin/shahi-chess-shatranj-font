@@ -89,6 +89,11 @@ shahi-white-gray/
         ├── shahi-icons-white-gray-pieces-green-board.png
         ├── Vizier Black.svg
         └── Vizier White.svg
+silhouette/
+    ├── Shahi-Silhouette-English-Regular.ttf
+    ├── Shahi-Silhouette-English-Regular.woff2
+    ├── Shahi-Silhouette-Turkish-Regular.ttf
+    ├── Shahi-Silhouette-Turkish-Regular.woff2
 LICENSE.txt
 README.md
 ---
