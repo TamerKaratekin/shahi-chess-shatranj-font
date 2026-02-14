@@ -54,7 +54,7 @@ The vector-based SVG format and clean outlines ensure compatibility with:
 The font is optimized for on-screen display, retaining shape clarity at any resolution.
 
 ### 4. Educational Purpose
-The Şahî Font is used across the Shatranj.ai curriculum and STEAM programs that connect chess logic with mathematics, coding, and artificial intelligence. It supports teachers, researchers, and curriculum designers who require culturally neutral and historically informed visual material. The fonts come in 3 color combinations, the first two are in SVG format as ivory-brown and white-gray pairs. The 3rd option is the silhouette font, which exists as ttf and woff2 formats. The silhouette font can be also used within Chessbase products also if the DiagTTOld.ttf font file is replaced in the system. 
+The Şahî Font is used across the Shatranj.ai curriculum and STEAM programs that connect chess logic with mathematics, coding, and artificial intelligence. It supports teachers, researchers, and curriculum designers who require culturally neutral and historically informed visual material. The fonts come in 3 color combinations, the first two are in SVG format as ivory-brown and white-gray pairs. The 3rd option is the silhouette font, which exists as ttf and woff2 formats. The silhouette font can be also used within Chessbase products if the DiagTTOld.ttf font file is replaced in the system. 
 ```
 ---
 ## 📦 Repository Structure
